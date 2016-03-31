@@ -1,5 +1,5 @@
-Archivos Quantum GIS (QGIS)
-===========================
+Archivos diversos QGIS
+======================
 
 En este repositorio he cargado algunos archivos para compartir sobre QGIS.
 
@@ -8,6 +8,5 @@ Entre ellos está los archivos de configuración de servidores OGR u otros para 
 *Repositorio en construccion*
 
 
-*Miguel Sevilla-Callejo*
+CC-BY-SA 2016 - Miguel Sevilla-Callejo
 
-abril 2016
