@@ -5,13 +5,12 @@ Custom Coordinate Reference System Definitions
 ## Proj4 Defintions
 Links:
 - [PROJ.4 - Frequently Asked Questions](http://proj.maptools.org/faq.html)
-- [Map Projections - Quadibloc](http://www.quadibloc.com/maps/mapint.htm)
 - [Map projection - Wikipedia](https://en.wikipedia.org/wiki/Map_projection)
+- [Map Projection Transitions - jasondavies.com](https://www.jasondavies.com/maps/transition/)
+- [Map Projections - Quadibloc](http://www.quadibloc.com/maps/mapint.htm)
+
 
 ## World projections
-
-### Robinson projection
-	+proj=robin +lon_0=0 +x_0=0 +y_0=0 +ellps=WGS84 +datum=WGS84 +units=m +no_defs
 
 ### Mollweide
 	+proj=moll +lon_0=Central Meridian
@@ -72,7 +71,11 @@ Links:
 
 Personal1 - derivada del mapa de paisajes de Europa (LANMAP2)
 
-	+proj=aea +lat_1=32.5 +lat_2=45 +lat_0=51.4 +lon_0=0 +x_0=0 +y_0=0 +ellps=WGS72+towgs84=0,0,4.5,0,0,0.554,0.2263 +units=m +no_defs
+	+proj=aea
+    	+lat_1=32.5 +lat_2=45 +lat_0=51.4 +lon_0=0
+        +x_0=0 +y_0=0
+        +ellps=WGS72 +towgs84=0,0,4.5,0,0,0.554,0.2263
+        +units=m +no_defs
 
 ## Personal projections
 
