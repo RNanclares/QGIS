@@ -71,6 +71,7 @@ Links:
 ### European Lambert
 
 Personal1 - derivada del mapa de paisajes de Europa (LANMAP2)
+
 	+proj=aea +lat_1=32.5 +lat_2=45 +lat_0=51.4 +lon_0=0 +x_0=0 +y_0=0 +ellps=WGS72+towgs84=0,0,4.5,0,0,0.554,0.2263 +units=m +no_defs
 
 ## Personal projections
