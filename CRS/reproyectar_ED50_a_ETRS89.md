@@ -1,6 +1,8 @@
 Reproyectar datos del datum ED50 al ETRS89
 ==========================================
 
+*CC-BY-SA 2016 - M. Sevilla-Callejo*
+
 Cuando se intenta reproyectar un archivo que viene usando el datum ED50
 usado antiguamente por el IGN uno encuentra que la reproyección no es
 correcta puesto que la los parámetros para la conversión tiene unas
