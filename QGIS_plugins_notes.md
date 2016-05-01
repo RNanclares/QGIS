@@ -3,6 +3,44 @@ QGIS Phyton Plugins
 
 *CC-BY-SA 2016 - M. Sevilla-Callejo*
 
+<!-- toc -->
+
+- [QGIS Phyton Plugins](#qgis-phyton-plugins)
+	- [Links](#links)
+	- [Must have Plug-ins](#must-have-plug-ins)
+		- [mmqgis](#mmqgis)
+		- [OpenLayers Plugin](#openlayers-plugin)
+		- [Table Manager](#table-manager)
+		- [Numerical Vertex Edit](#numerical-vertex-edit)
+		- [Profile tool](#profile-tool)
+		- [QSpatiaLite](#qspatialite)
+		- [QuickOSM](#quickosm)
+		- [Qgis2threejs](#qgis2threejs)
+		- [qgis2web](#qgis2web)
+		- [XyTools](#xytools)
+		- [QConsolidate](#qconsolidate)
+		- [qgis2leaf](#qgis2leaf)
+		- [Layer Board](#layer-board)
+	- [Interesting Plug-ins](#interesting-plug-ins)
+		- [QSphere](#qsphere)
+		- [Layer Combinations](#layer-combinations)
+		- [Rectangles Ovals Digitizing](#rectangles-ovals-digitizing)
+		- [Affine Transformations](#affine-transformations)
+		- [Temporal/Spectral Profile Tool](#temporalspectral-profile-tool)
+		- [QuickMapServices](#quickmapservices)
+	- [Testing Plug-ins (to review)](#testing-plug-ins-to-review)
+		- [Group Stats](#group-stats)
+		- [AutoTrace Plugin (within version 2.14)](#autotrace-plugin-within-version-214)
+		- [Descarga de imágenes PNOA ¿?](#descarga-de-imágenes-pnoa)
+	- [QGIS alternative repositories (TO REVIEW)](#qgis-alternative-repositories-to-review)
+	- [How to manually install a plugin (TO REVIEW)](#how-to-manually-install-a-plugin-to-review)
+
+<!-- tocstop -->
+
+---
+
+## Links
+
 * [QGIS plugins webpage](http://plugins.qgis.org/plugins/)
 * [Featured plugins](http://plugins.qgis.org/plugins/featured/)
 * [Popular plugins](http://plugins.qgis.org/plugins/popular/)
